@@ -72,6 +72,6 @@ if ($esPeticionAjax) {
         </div>
     </div>
 
-    <script src="login.js"></script>
+    <script src="./login.js"></script>
 </body>
 </html>
