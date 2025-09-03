@@ -28,7 +28,7 @@
 
             <!-- Contenido -->
             <div class="col-md-9 col-lg-10 content">
-                <div class="card rounded-1" style="width: 18rem;">
+                <div class="card" style="width: 18rem;">
                     <img src="https://images.ctfassets.net/o7fa4pf94cfp/35IZumSv8h17jhCibMF2QD/6f3191d9256dd2a35321663bf73dda5a/04902430430715_C1N1.jpeg?w=700&fm=webp" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Shampoo</h5>
